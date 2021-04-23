@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Button } from './Button';
 import { api } from '../services/api';
-import { GenreResponseProps } from '../services/interfaces';
+import { GenreResponseProps } from './interfaces/interfaces';
 
 import '../styles/sidebar.scss';
 

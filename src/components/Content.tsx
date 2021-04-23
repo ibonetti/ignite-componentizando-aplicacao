@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { MovieCard } from './MovieCard';
 import { api } from '../services/api';
-import { GenreResponseProps } from '../services/interfaces';
+import { GenreResponseProps } from './interfaces/interfaces';
 
 import '../styles/content.scss';
 
